@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource 
+name="jdbc/mysql" 
+auth="Container" 
+type="javax.sql.DataSource"   
+driverClassName="com.mysql.jdbc.Driver" 
+loginTimeout="10" maxWait="5000" 
+ username="root"  password="bellkara6301" 
+ testOnBorrow="true" 
+url="jdbc:mysql://localhost:3307/AWS" /></Context>
